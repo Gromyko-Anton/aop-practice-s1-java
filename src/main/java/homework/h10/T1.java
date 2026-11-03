@@ -7,4 +7,10 @@ public class T1 {
         int shifts = Integer.bitCount(k - 1);
         return (char) ('a' + shifts);
     }
+
+    public static void main(String[] args) {
+        T1 sol = new T1();
+        System.out.println(sol.kthCharacter(5));  // b
+        System.out.println(sol.kthCharacter(10)); // c
+    }
 }

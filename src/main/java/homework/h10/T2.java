@@ -13,4 +13,15 @@ public class T2 {
             right--;
         }
     }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        char[] arr1 = {'h', 'e', 'l', 'l', 'o'};
+        sol.reverseString(arr1);
+        System.out.println(arr1); // olleh
+
+        char[] arr2 = {'H', 'a', 'n', 'n', 'a', 'h'};
+        sol.reverseString(arr2);
+        System.out.println(arr2); // hannaH
+    }
 }

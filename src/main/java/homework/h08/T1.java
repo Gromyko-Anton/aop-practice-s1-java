@@ -15,4 +15,10 @@ public class T1 {
         }
         return max;
     }
+
+    public static void main(String[] args) {
+        T1 sol = new T1();
+        System.out.println(sol.findMaxConsecutiveOnes(new int[]{1, 1, 0, 1, 1, 1})); // 3
+        System.out.println(sol.findMaxConsecutiveOnes(new int[]{1, 0, 1, 1, 0, 1})); // 2
+    }
 }

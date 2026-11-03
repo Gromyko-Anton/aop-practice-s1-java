@@ -17,4 +17,10 @@ public class T2 {
         }
         return result;
     }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        System.out.println(sol.kidsWithCandies(new int[]{2, 3, 5, 1, 3}, 3)); // [true, true, true, false, true]
+        System.out.println(sol.kidsWithCandies(new int[]{4, 2, 1, 1, 2}, 1)); // [true, false, false, false, false]
+    }
 }
