@@ -4,8 +4,8 @@ package homework.h03;
 // https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 public class T2 {
     public int differenceOfSums(int n, int m) {
-        int sum1 = 0; // not divisible by m
-        int sum2 = 0; // divisible by m
+        int sum1 = 0;
+        int sum2 = 0;
         for (int i = 1; i <= n; i++) {
             if (i % m == 0) {
                 sum2 += i;
@@ -14,5 +14,12 @@ public class T2 {
             }
         }
         return sum1 - sum2;
+    }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        System.out.println(sol.differenceOfSums(10, 3)); // 19
+        System.out.println(sol.differenceOfSums(5, 6));  // 15
+        System.out.println(sol.differenceOfSums(5, 1));  // -15
     }
 }

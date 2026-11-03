@@ -14,4 +14,10 @@ public class T1 {
         }
         return (double) (sum - min - max) / (salary.length - 2);
     }
+
+    public static void main(String[] args) {
+        T1 sol = new T1();
+        System.out.println(sol.average(new int[]{4000, 3000, 1000, 2000})); // 2500.0
+        System.out.println(sol.average(new int[]{1000, 2000, 3000})); // 2000.0
+    }
 }
