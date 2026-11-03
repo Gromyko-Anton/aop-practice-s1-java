@@ -14,4 +14,11 @@ public class T2 {
         }
         return true;
     }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        System.out.println(sol.isPalindrome("A man, a plan, a canal: Panama")); // true
+        System.out.println(sol.isPalindrome("race a car")); // false
+        System.out.println(sol.isPalindrome(" ")); // true
+    }
 }

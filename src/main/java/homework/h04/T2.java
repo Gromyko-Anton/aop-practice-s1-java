@@ -10,4 +10,10 @@ public class T2 {
         }
         return num ^ mask;
     }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        System.out.println(sol.findComplement(5)); // 2
+        System.out.println(sol.findComplement(1)); // 0
+    }
 }

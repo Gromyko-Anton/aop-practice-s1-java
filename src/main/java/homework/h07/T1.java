@@ -21,4 +21,11 @@ public class T1 {
         }
         return result;
     }
+
+    public static void main(String[] args) {
+        T1 sol = new T1();
+        System.out.println(sol.fizzBuzz(3));  // [1, 2, Fizz]
+        System.out.println(sol.fizzBuzz(5));  // [1, 2, Fizz, 4, Buzz]
+        System.out.println(sol.fizzBuzz(15)); // ... FizzBuzz
+    }
 }

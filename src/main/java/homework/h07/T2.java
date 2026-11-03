@@ -15,4 +15,11 @@ public class T2 {
         }
         return steps;
     }
+
+    public static void main(String[] args) {
+        T2 sol = new T2();
+        System.out.println(sol.numberOfSteps(14)); // 6
+        System.out.println(sol.numberOfSteps(8));  // 4
+        System.out.println(sol.numberOfSteps(123)); // 12
+    }
 }

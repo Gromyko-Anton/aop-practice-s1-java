@@ -12,4 +12,10 @@ public class T1 {
         }
         return true;
     }
+
+    public static void main(String[] args) {
+        T1 sol = new T1();
+        System.out.println(sol.isAnagram("anagram", "nagaram")); // true
+        System.out.println(sol.isAnagram("rat", "car")); // false
+    }
 }
