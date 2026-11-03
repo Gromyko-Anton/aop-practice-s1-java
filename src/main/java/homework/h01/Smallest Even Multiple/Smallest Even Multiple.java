@@ -1,4 +1,6 @@
-class Solution {
+package homework.h01;
+
+public class SmallestEvenMultiple {
     public int smallestEvenMultiple(int n) {
         return n % 2 == 0 ? n : n * 2;
     }
