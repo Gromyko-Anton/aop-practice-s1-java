@@ -1,0 +1,65 @@
+[33mff366cd[m Add main methods to h08-h11 solutions
+[33m76f8411[m Add main methods to h04-h07 solutions
+[33m62641f2[m Add main methods with test examples to homework solutions
+[33m4f2cdc7[m Add LeetCode solutions for homework h07-h11 T1 and T2
+[33m986caf6[m Add LeetCode solutions for homework h01-h06 T1 and T2
+[33me3ba06a[m Add CountOdds.java with matching filename
+[33m7e3786b[m Remove wrongly named CountOdds file
+[33m82aef71[m Add SmallestEvenMultiple.java in correct package location
+[33m8098830[m Remove wrongly nested SmallestEvenMultiple file
+[33mec2bbf9[m Fix duplicate class Solution — rename SmallestEvenMultiple
+[33m5b21836[m Fix duplicate class Solution — rename RectangleArea
+[33m905e88c[m Fix duplicate class Solution — rename Palindrome
+[33mf87b6c1[m Fix duplicate class Solution — rename CountOdds
+[33m9f30ac0[m Add discussion on programming concepts in Ukrainian
+[33m6eb5c52[m Create Відкрита дискусія.txt
+[33mfe71efe[m Add files via upload
+[33me92f4cf[m Add files via upload
+[33mbd82627[m Add files via upload
+[33m3966628[m Add files via upload
+[33m7302e1d[m Add files via upload
+[33meb8a870[m Add files via upload
+[33m08242a2[m Expand discussion on number types and precision
+[33mdd3beca[m Rename file to 'Відкрита дискусія.txt'
+[33m155588d[m Create ідкрита дискусія.txt
+[33meaa65f2[m Add files via upload
+[33m734de7c[m Add files via upload
+[33mac38bf5[m Add files via upload
+[33me4ad8d0[m Add files via upload
+[33mf6af381[m Add files via upload
+[33m2700db2[m Update Відкрита дискусія.txt
+[33m4e69a24[m Create Відкрита дискусія.txt
+[33m9568900[m Add files via upload
+[33m44f74f1[m Add files via upload
+[33m149f40f[m Delete Smallest Even Multiple.java
+[33m907a4f8[m Add files via upload
+[33m3ae0483[m Add files via upload
+[33m8d24255[m Add files via upload
+[33m298e287[m Add files via upload
+[33mbb61d0c[m Add files via upload
+[33me7ee048[m Add files via upload
+[33mc5a7762[m Delete src/main/java/homework/h02/1.jpg
+[33mfd2cd5e[m Delete src/main/java/homework/h02/2.jpg
+[33me13ed4c[m Delete src/main/java/homework/h02/Add Digits.java
+[33m2393e78[m Add files via upload
+[33m2458422[m Add files via upload
+[33m2a4ac83[m Create Add Digits.java
+[33m24fed7a[m Add discussion points and definitions in text file
+[33m6e76867[m Create Відкрита дискусія.txt
+[33m53ab13d[m Implement method to count odd numbers in range
+[33mcbbe7e8[m Create Count Odd Numbers in an Interval Range.java
+[33mac306b4[m Implement palindrome check in Solution class
+[33m13dac99[m Delete src/main/java/homework/h01/2413. Smallest Even Multiple
+[33m8666b36[m Add Solution class with smallestEvenMultiple method
+[33ma73bc5e[m Add solution for smallest even multiple calculation
+[33m5e02561[m Implement smallestEvenMultiple method in Solution class
+[33m4f7de1c[m Add files via upload
+[33ma560314[m Add files via upload
+[33m83868b3[m Add files via upload
+[33mc19d728[m Add files via upload
+[33m2a37fee[m Rename Screenshot 2026-09-28 005713_edited.png to Screenshot 1.png
+[33m3284e1e[m Add files via upload
+[33m3a96875[m Delete src/main/java/homework/h01/1
+[33m74d7337[m Create 1
+[33mac7dbb6[m Implement rectangle area computation method
+[33m2b9b723[m Initial commit
